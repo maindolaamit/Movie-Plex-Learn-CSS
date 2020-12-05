@@ -6,8 +6,8 @@ Created a dummy Movies download and online watching website using CSS Flexbox. W
 
 
 
-![image-20201205155138094](snapshots\image-20201205155138094.png)
+![image-20201205155138094](./snapshots/image-20201205155138094.png)
 
 
 
-![image-20201205155214122](snapshots\image-20201205155214122.png)
+![image-20201205155214122](./snapshots/image-20201205155214122.png)
